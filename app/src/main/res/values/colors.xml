@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    //Botones
+    <color name="colorAccept">#6E992E</color>
+    <color name="colorAcceptPressed">#526F22</color>
+
+    <color name="colorCancel">#E2564B</color>
+    <color name="colorCancelPressed">#B94940</color>
+
+    <color name="colorCancelW">#FFFFFF</color>
+    <color name="colorCancelWPressed">#C0C0C0</color>
+
+</resources>
