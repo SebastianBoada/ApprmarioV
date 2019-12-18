@@ -37,7 +37,8 @@
 
         <Button
             android:id="@+id/btnCan"
-            style="@style/btn_CancelW" />
+            style="@style/btn_CancelW"
+            android:onClick="alert" />
 
         <Button
             android:id="@+id/btnCa"
